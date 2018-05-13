@@ -4,4 +4,6 @@ Huh! It actually shows it in the front page so never mind :)
 
 How do you create a new line in this thing?
 
-apparently you need to push Enter twice, Which idiot came up with this?
+Apparently you need to push Enter twice, Which idiot came up with this?
+
+it seems you cant edit anything from Git Desktop. so it's practically useless.
